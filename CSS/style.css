@@ -1,0 +1,170 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+header .negro {
+  background-color: #222222;
+  color: #f3f3f3;
+  font-size: 12px;
+
+  height: 65px;
+}
+
+header .amarillo {
+  background-color: #f0a83e;
+  color: #ffffff;
+  font-size: 13px;
+}
+
+main {
+  text-align: center;
+}
+
+main .imagen {
+  background-image: url("../Img/bowl-and-pet-daities-on-green-background\ 1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  height: 450px;
+}
+
+main .imagen h2 {
+  background-color: #ffffff;
+  color: #3c2313;
+  font-size: 30px;
+  line-height: 35px;
+  border-radius: 5px;
+  width: 365px;
+  height: 54px;
+}
+
+main .imagen p {
+  font-size: 19px;
+  color: #3c2313;
+}
+
+main button {
+  width: 141px;
+  height: 49px;
+  color: #ffffff;
+  background-color: #f0a83e;
+  border: solid #f0a83e 1px;
+  border-radius: 5px;
+}
+
+main .productos img {
+  width: 67px;
+}
+main .productos h3 {
+  color: #3c2313;
+  font-size: 40px;
+}
+
+main .productos ul,
+li {
+  list-style: none;
+  color: #666666;
+  font-size: 15px;
+  display: flex;
+  padding: 10px;
+  justify-content: center;
+}
+
+.precios img {
+  width: 265px;
+}
+
+.precios h3 {
+  color: #3c2313;
+}
+
+.precios p {
+  color: #f0a83e;
+}
+
+.formulario {
+  text-align: center;
+}
+.formulario form input {
+  background-color: #3c2313;
+  width: 340px;
+  height: 40px;
+  border-radius: 15px;
+  margin: 10px;
+  color: #ffffff;
+}
+
+.formulario .b1 {
+  border-radius: 15px;
+  width: 110px;
+  height: 34px;
+  background-color: #8a8787;
+  border: none;
+}
+
+.formulario .b2 {
+  border-radius: 15px;
+  width: 110px;
+  height: 34px;
+  border: none;
+}
+
+footer .input {
+  height: 60px;
+  background-color: #f0a83e;
+  margin: 20px 0 20px 0;
+  align-items: center;
+  display: flex;
+}
+
+footer .input img {
+  width: 40px;
+  height: 40px;
+}
+
+footer .input h3 {
+  color: #ffffff;
+  font-size: 23px;
+  margin-right: 15px;
+}
+
+footer .input input {
+  width: 271px;
+  height: 40px;
+  background-color: #f3f3f3;
+  border-radius: 15px;
+  border: solid 1px white;
+}
+
+footer .input button {
+  background-color: #3c2313;
+  color: #ffffff;
+  width: 70px;
+  height: 34px;
+  font-size: 11px;
+  border-radius: 15px;
+}
+
+footer .iconos img {
+  width: 66px;
+  height: 66px;
+}
+footer .iconos {
+  background-color: #3c2313;
+}
+
+footer .iconos h3 {
+  font-size: 23px;
+  color: #ffffff;
+}
+footer .iconos p {
+  font-size: 12px;
+  color: #ffffff;
+}
+
+footer .iconos .logotipo {
+  width: 166px;
+  height: 23px;
+}
